@@ -65,7 +65,7 @@ struct node* FindMax(struct node* T)
 - Both functions rely on the tree's structure, which ensures that the leftmost node is the smallest and the rightmost node is the largest.
 
 #### Finding Any Element
-To find any element in a Binary Search Tree, we traverse through the first node that is **Root** and based on the comparison logic on the root we decide which half we traverse next.
+To find any element in a  Tree, we traverse through the first node that is **Root** and based on the comparison logic on the root we decide which half we traverse next.
 
 ##### Algorithm in PseudoCode:
 ```js

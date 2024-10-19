@@ -8,7 +8,7 @@ tags:
 Date: 17-07-2024
 Time: 14:04
 ---
- # Data Structures & Algorithm
+# Data Structures & Algorithm
 
 # Lectures
 
