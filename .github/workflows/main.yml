@@ -3,16 +3,22 @@ name: Pull on GitHub Repo Update
 on:
   push:
     branches:
-      - public  # Adjust this to the branch you want to track
+      - public  # Triggers on push to the 'public' branch
 
 jobs:
-  pull_repo:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Pull latest changes
-      run: |
-        git pull public public  # Replace 'main' with your branch name
+    - name: Deploy to Server via SSH
+      uses: appleboy/ssh-action@v0.1.9
+      with:
+        host: ${{ secrets.SERVER_HOST }}     # Your server's IP address or hostname
+        username: ${{ secrets.SSH_USER }}    # SSH username for the server
+        key: ${{ secrets.SSH_KEY }}          # SSH private key (added as GitHub secret)
+        script: |
+          cd /path/to/your/project  # Replace with your project directory on the server
+          git pull public public    # Pull updates from 'public' branch on 'public' remote
