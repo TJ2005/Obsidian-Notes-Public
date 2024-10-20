@@ -20,5 +20,5 @@ jobs:
         username: ${{ secrets.SSH_USER }}    # SSH username for the server
         key: ${{ secrets.SSH_KEY }}          # SSH private key (added as GitHub secret)
         script: |
-          cd /path/to/your/project  # Replace with your project directory on the server
+          cd /notes/Obsidian-Notes-Public  # Replace with your project directory on the server
           git pull public public    # Pull updates from 'public' branch on 'public' remote
