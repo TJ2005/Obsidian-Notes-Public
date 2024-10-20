@@ -22,3 +22,7 @@ jobs:
         script: |
           cd /notes/Obsidian-Notes-Public  # Replace with your project directory on the server
           git pull public public    # Pull updates from 'public' branch on 'public' remote
+          cp -r /notes/Obsidian-Notes-Public/Publish/Attachments/* /notes/digital-garden/public/images/
+          cp -r /notes/Obsidian-Notes-Public/Publish/* /notes/digital-garden/posts/
+
+
