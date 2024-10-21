@@ -52,7 +52,6 @@ Time: 16:28
 
 # References
 
-
 ###### Information
 - date: 2024.10.18
 - time: 16:28
