@@ -109,7 +109,7 @@ The `Title` should be the main title or subject of the document, the `Heading` s
 For Obsidian 
 always inline latex starts with $and ends with $ do not add space between Dont use ` or dont use \[ or \] as well
 Similarly for centered latex use $$Latex$$
-Dont use ` and ` as well... 
+
 
 Please use inline LaTeX formulas within `$` for inline math expressions and `$$` for centered or block-level math in markdown when writing for Obsidian.
 

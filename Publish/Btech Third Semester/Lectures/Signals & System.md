@@ -61,6 +61,7 @@ Making Notes with books
 ## - 27-09-2024 13:16 [[Signals & Systems Lab 7]]
 ## - 04-10-2024 12:23 [[Signals & Systems Lab 8]]
 ## - 15-10-2024 10:20 [[Signals & Systems Lecture 15]]
+## 22-10-2024 10:20 [[Signals & Systems Lecture 16]]
 
 # Course Policy
 ![[Pasted image 20240820024357.png]]
