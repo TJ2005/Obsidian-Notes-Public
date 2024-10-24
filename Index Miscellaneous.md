@@ -2,7 +2,7 @@
 Title: Index Miscellaneous
 Status: 
 marker:
-  - "[[Index]]"
+  - "[[index]]"
 tags: 
 Date: 2024.10.18
 Time: 16:28
