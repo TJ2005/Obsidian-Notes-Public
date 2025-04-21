@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - BTech Third Semester.md
+tite: TJ's Btech CYS Notes
+description: This is the collection of all the notes i have made for sem3
+theme: jekyll-theme-minimal
+

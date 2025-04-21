@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"993d860438eb10bb","type":"text","text":"Client","x":-400,"y":-61,"width":250,"height":60},
+		{"id":"206917c2b4656f46","type":"text","text":"Server","x":160,"y":-121,"width":250,"height":60},
+		{"id":"c83aa4cd2e24164e","x":-400,"y":-1,"width":250,"height":60,"type":"text","text":"Process"},
+		{"id":"60249c42a8abcf67","type":"text","text":"Request","x":-57,"y":-86,"width":125,"height":50},
+		{"id":"e04e4414b209b651","x":-540,"y":59,"width":163,"height":50,"type":"text","text":"Application\nWeb Apps\nMobile"},
+		{"id":"c14b0ae4d91e8db1","type":"text","text":"This is a request being made on the network","x":-90,"y":84,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8606aabbd45c1349","fromNode":"993d860438eb10bb","fromSide":"right","toNode":"206917c2b4656f46","toSide":"left"},
+		{"id":"7f5ce6bebf6b02d6","fromNode":"c14b0ae4d91e8db1","fromSide":"top","toNode":"60249c42a8abcf67","toSide":"bottom"},
+		{"id":"1090f8566d3acf4b","fromNode":"206917c2b4656f46","fromSide":"bottom","toNode":"c83aa4cd2e24164e","toSide":"right"}
+	]
+}

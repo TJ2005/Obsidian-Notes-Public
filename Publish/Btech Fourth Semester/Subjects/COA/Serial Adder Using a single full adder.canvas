@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"817864187477fc99","type":"text","text":"\n| $A_1$ | $A_2$ | $A_3$ | $A_4$ |\n| ----- | ----- | ----- | ----- |\n|       |       |       |       |\n","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"838ed3bcf7d4835b","x":-125,"y":80,"width":250,"height":60,"type":"text","text":"\n| $B_1$ | $B_{}2$ | $B_3$ | $B_4$ |\n| ----- | ------- | ----- | ----- |\n|       |         |       |       |\n"},
+		{"id":"c0e1b74b24d75c3f","x":220,"y":20,"width":250,"height":60,"type":"text","text":"# F A"},
+		{"id":"25af76bf5ed28ca4","x":600,"y":20,"width":250,"height":60,"type":"text","text":"\n| $S_1$ | $S_2$ | $S_3$ | $S_4$ |\n| ----- | ----- | ----- | ----- |\n|       |       |       |       |\n"},
+		{"id":"82edb8949c1d49cc","x":220,"y":180,"width":250,"height":60,"type":"text","text":"Bit By Bit addition"}
+	],
+	"edges":[
+		{"id":"b845491cc9a63e95","fromNode":"817864187477fc99","fromSide":"right","toNode":"c0e1b74b24d75c3f","toSide":"left","label":"Bit 1"},
+		{"id":"b4fefdf04049c635","fromNode":"838ed3bcf7d4835b","fromSide":"right","toNode":"c0e1b74b24d75c3f","toSide":"left","label":"Bit 2"},
+		{"id":"9c96119ce84324ef","fromNode":"c0e1b74b24d75c3f","fromSide":"right","toNode":"25af76bf5ed28ca4","toSide":"left","label":"Shift"}
+	]
+}

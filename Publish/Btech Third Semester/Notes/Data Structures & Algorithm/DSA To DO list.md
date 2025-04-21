@@ -1,0 +1,8 @@
+- Memory Representation of Linked List
+- Singly Linked Lists / Operations
+- Doubly Linkd Lists / Operations
+- Linked List representation for queues and stacks
+- Application of linked List ( Polynomial addition )
+- Binary Search Tree
+- Numericals BST
+- Applications of tree Data Structure
