@@ -117,7 +117,7 @@ Since there are 12 valid choices for a and 26 valid choices for b, there are a t
 
 ## Relationship Between Shift and Affine Ciphers
 
-Shift ciphers are a particular type of Affine cipher where a = 1. This means that in a shift cipher, letters are only shifted by a constant value (b), while in the general Affine cipher, letters undergo both multiplication (by a) and addition (of b).
+Shift ciphers are a particular type of Affine cipher where a = 1. This means that in a [[#Shift Cipher|Shift Cipher]], letters are only shifted by a constant value (b), while in the general Affine cipher, letters undergo both multiplication (by a) and addition (of b).
 
 This relationship demonstrates how cryptographic techniques evolved, with each new cipher building upon and extending previous ones to provide greater security.
 
