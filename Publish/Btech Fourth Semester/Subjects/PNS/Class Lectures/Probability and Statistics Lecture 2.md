@@ -6,7 +6,7 @@ tags:
 Date: "2025.02.03"
 Time: "15:25"
 ---
-Continued from [[Probability and Statistics Lecture 1]]
+eContinued from [[Probability and Statistics Lecture 1]]
 # Concepts used
 ![[Probability Core Concepts]]
 

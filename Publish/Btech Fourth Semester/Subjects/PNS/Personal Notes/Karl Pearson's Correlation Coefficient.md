@@ -9,7 +9,7 @@ tags:
 Date: 2025.03.22
 Time: 18:45
 ---
-# Karl Pearson's Correlation Coefficient
+xxxxx# Karl Pearson's Correlation Coefficient
 Corelation is a statistical measure is a coefficient which describes the **size** and **direction** of the relation between two or more variables. Two variables are said to be corelated if the change in one variable affects the change in the other variable.
 Karl Pearson's Correlation Coefficient between two variables $X$ and $Y$ is given by.
 

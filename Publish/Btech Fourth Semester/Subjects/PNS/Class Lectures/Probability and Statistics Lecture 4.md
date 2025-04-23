@@ -66,6 +66,7 @@ $$
 P(H|F)=\frac{P(F|H).P(H)}{P(F)}
 $$
 # References
+
 > [!Continued to]
 > [[Probability and Statistics Lecture 5]]
 

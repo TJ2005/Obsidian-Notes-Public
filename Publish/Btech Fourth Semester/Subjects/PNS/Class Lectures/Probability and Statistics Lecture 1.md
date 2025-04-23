@@ -9,7 +9,6 @@ tags:
 Date: 2025.02.03
 Time: 11:23
 ---
-
 # Basic Probability
 ![[Basic Probability#Basic Probability]]
 
