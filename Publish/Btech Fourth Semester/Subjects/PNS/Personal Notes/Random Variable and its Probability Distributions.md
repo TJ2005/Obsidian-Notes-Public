@@ -41,7 +41,7 @@ A **probability distribution** describes how probabilities are assigned to possi
 1. **For Discrete Random Variables**:
     - Represented by a **probability mass function (PMF)**.
     - Example: Rolling a die has $P(X=x)=16P(X = x) = \frac{1}{6} for x∈{1,2,3,4,5,6}x \in {1, 2, 3, 4, 5, 6}$.
-2. **For Continuous Random Variables**:
+2. **For Continuous Random Variables**: ^dfe7dd
     - Represented by a **probability density function (PDF)**.
 	    - Meaning there is a function $f(X=x)$ such that for any value x it has a defined output.
     - Probabilities are calculated as areas under the curve of the PDF.

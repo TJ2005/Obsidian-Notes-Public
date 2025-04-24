@@ -24,6 +24,7 @@ Time: 03:47
 
 	- [[Distributions]]
 		- [ ] [[Random Variable and its Probability Distributions]]
+		- [ ] [[Probability Distribution Function]]
 		- [ ]  [[Cumulative Distribution Function]]
 		- [ ] [[Expectation of a Random Variable]]
 		- [ ] [[Binomial Distribution]]
