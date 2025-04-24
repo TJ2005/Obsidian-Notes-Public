@@ -6,7 +6,7 @@ tags:
 Date: "2025.03.12"
 Time: "14:05"
 ---
-# Testing of hypothesis and Prerequisite Knowledge 
+,# Testing of hypothesis and Prerequisite Knowledge 
 A **hypothesis** is a **statement or assumption** about a **population parameter** (e.g., mean, proportion) that can be tested using statistical methods. It is the foundation of **hypothesis testing**, which determines whether there is enough statistical evidence in a sample to **infer** a conclusion about the entire population.
 ## Karl Poppers
 Whenever there is a **conjecture** which is a statement that is not yet proved According to Karl Poppers it is easier to disprove it by showing **Empirical Evidence**. The conjecture is called the **Null Hypothesis** and the opposite of it is called the **Alternative Hypothesis**.
