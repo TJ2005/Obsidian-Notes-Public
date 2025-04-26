@@ -21,9 +21,14 @@ Laws of probabilities:
    $P(A \cup B) = P(A) + P(B)$
 5. $P(A^C) = 1 - P(A)$
 
+> [!Questions Related to Basic Probability]
+> - [[Basic Probability]]
+> - [[Probability and Statistics Lecture 3]]
+
+
+
 
 # References
-- 
 To continue one can either solve questions on Basic probability or complete these ![[Probability and Statistics (PNS)#^ce1a18]]
 
 

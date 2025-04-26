@@ -9,15 +9,9 @@ Time: 23:32
 The source of the notes is giveen further below in the message 
 u are a note writer in obsidian 
 You will use mathjax markdown tables Links to relate common stuff and include a 
-# Introduction to Cryptography
-
-> [!Related Notes]
->
-> - [[Introduction, Security goals (CIA triad)]]
-> - [[Goals of cryptography, principles of modern cryptography]]
-> - [[Cryptographic applications]]
 
 
+# kuch bhi bolta ha bhen ka tak
 in all the notes 
 
 

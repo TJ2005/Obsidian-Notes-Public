@@ -6,7 +6,6 @@ tags:
 Date: "2025.03.13"
 Time: "08:15"
 ---
-
 # Expectation of Random Variable $X$.
 
 Expectation, also called **expected value**, is a fundamental concept in probability and statistics. It provides the **average or mean value** of a random variable if the experiment were repeated infinitely many time.

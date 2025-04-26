@@ -52,6 +52,12 @@ In this case, we consider all possible events $D_1, D_2, \dots, D_n$ and compute
 10. **Decision Making**: Informs decisions under uncertainty.
 
 
+> [!Questions Related to Baye's Theorem]
+> - [[Basic Probability#Basic Probability]]
+
+
+
+
 # References
 
 

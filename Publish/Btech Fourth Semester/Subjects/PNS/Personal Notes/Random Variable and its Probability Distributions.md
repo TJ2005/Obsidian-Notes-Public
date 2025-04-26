@@ -1,13 +1,12 @@
 ---
-Title: "Random Variable and its Probability Mass Function"
+Title: Random Variable and its Probability Mass Function
 Status: 
 marker: 
 tags: 
-Date: "2025.03.13"
-Time: "07:50"
+Date: 2025.03.13
+Time: 07:50
 ---
-
-## Random Variables
+# Random Variables
 
 Imagine we are taking into account the values that a die can give us. One can call the random variable as $X$ and the possible values it can take as $x$.
 - $X$ can take on the values $1, 2, 3, 4, 5, 6$. 
@@ -40,7 +39,9 @@ A **probability distribution** describes how probabilities are assigned to possi
 ### Types:
 1. **For Discrete Random Variables**:
     - Represented by a **probability mass function (PMF)**.
-    - Example: Rolling a die has $P(X=x)=16P(X = x) = \frac{1}{6} for x∈{1,2,3,4,5,6}x \in {1, 2, 3, 4, 5, 6}$.
+    - Example: Rolling a die has $P(X=x)=16$
+    - $P(X = x) = \frac{1}{6}$
+    - $for x∈{1,2,3,4,5,6}$
 2. **For Continuous Random Variables**: ^dfe7dd
     - Represented by a **probability density function (PDF)**.
 	    - Meaning there is a function $f(X=x)$ such that for any value x it has a defined output.
@@ -72,12 +73,14 @@ Steps:
 
 ---
 
-## Map
-- To solve questions one can refer to
-	- [[Probability and Statistics Lecture 7]] - 
-- R studio
-	- [[Probability and Statistics Lab 4 Part 1]] 
-	- [[Probability and Statistics Lab 4 Part 2]].
+> [!Questions Related to Random Variable and its Probability Distributions]
+> - To solve questions one can refer to
+> 	- [[Probability and Statistics Lecture 7]] - 
+> - R studio
+> 	- [[Probability and Statistics Lab 4 Part 1]] 
+> 	- [[Probability and Statistics Lab 4 Part 2]].
+
+
 # References
 - Probability and Statistics Lectures at MPSTME
 ###### Information

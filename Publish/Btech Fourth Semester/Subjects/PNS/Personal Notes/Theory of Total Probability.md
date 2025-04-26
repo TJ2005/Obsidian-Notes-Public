@@ -1,10 +1,10 @@
 ---
-Title: "Theory of Total Probability"
+Title: Theory of Total Probability
 Status: 
 marker: 
 tags: 
-Date: "2025.02.03"
-Time: "09:42"
+Date: 2025.02.03
+Time: 09:42
 ---
 # Law of Total Probability  
 
@@ -105,16 +105,22 @@ P(E_2 \mid E) = \frac{P(E_2) \cdot P(E \mid E_2)}{P(E)}
 $$
 
 Where:
-- \( P(E_2 \mid E) \) is the probability of having escaped through door 2 given that the person has escaped.
-- \( P(E_2) \) is the prior probability of escaping through door 2.
-- \( P(E \mid E_2) \) is the likelihood of escaping given that the person chose door 2.
-- \( P(E) \) is the total probability of escaping, calculated using the Theorem of Total Probability.
+- \( $P(E_2 \mid E)$ \) is the probability of having escaped through door 2 given that the person has escaped.
+- \( $P(E_2)$ \) is the prior probability of escaping through door 2.
+- \( $P(E \mid E_2)$ \) is the likelihood of escaping given that the person chose door 2.
+- \( $P(E)$ \) is the total probability of escaping, calculated using the Theorem of Total Probability.
 
 ### Conclusion
 
 The combination of the Theorem of Total Probability and Bayes' Theorem provides a powerful framework for analyzing complex probabilistic scenarios. These theorems are fundamental in statistics and probability theory, with wide-ranging applications in fields such as machine learning, medical diagnosis, and risk assessment.
 
 # References  
+> [!Questions Related to Theory of Total Probability]
+> - [[Questions Based On Basic Probability & Bayes Theorem]]
+> - [[Probability And Statistics Lecture 3]]
+> - [[Probability and Statistics Lecture 4]]
+
+
 
 
 ###### Information  

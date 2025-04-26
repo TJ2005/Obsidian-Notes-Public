@@ -154,6 +154,11 @@ c. **Conditional Probability of drawing a Queen given the card is a Club:**
 $$ P(\text{Queen} | \text{Club}) = \frac{P(\text{Queen} \cap \text{Club})}{P(\text{Club})} $$
 
 
+# Questions & Answers
+
+> [!Questions & Answers Related to this chapter]
+> Mostly referred from professors notes.
+> - [[Questions Based On Basic Probability & Bayes Theorem]]
 
 
 # References

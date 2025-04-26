@@ -13,6 +13,8 @@ Time: 03:47
 
 > [!INFO]
 > These notes are based off of lectures at MPSTME. One can read these to get a decent understanding of PNS
+> Big thanks to Professor Shruti Shubhash.
+> 
 
 ## Notes
 - [[Probability and Statistics (PNS) Project]]
@@ -21,13 +23,14 @@ Time: 03:47
 		- [ ] [[Probability Core Concepts]]
 		- [ ] [[Baye's Theorem]]
 		- [ ]  [[Theory of Total Probability]]
-
+		- [ ] [[Questions Based On Basic Probability & Bayes Theorem]]
 	- [[Distributions]]
 		- [ ] [[Random Variable and its Probability Distributions]]
 		- [ ] [[Probability Distribution Function]]
 		- [ ]  [[Cumulative Distribution Function]]
 		- [ ] [[Expectation of a Random Variable]]
 		- [ ] [[Binomial Distribution]]
+		- [ ] [[Poissons Distributions]]
 	- [ ] **Moments**
 		- [ ] [[Raw and Central Moments]]
 		- [ ] [[Moment Generating Functions]]
@@ -36,7 +39,7 @@ Time: 03:47
 		- [ ] [[Spearman's Correlation Coefficient]]
 	- [ ] [[Linear Regression]]
 	- [ ] [[Hypothesis and Probability and Statistics]]
-		- [ ] [[Test of Significance ( Hypothesis )]]
+		- [ ] [[Test of Significance ( Hypothesis )]
 
 
 ## Lab Documentations
