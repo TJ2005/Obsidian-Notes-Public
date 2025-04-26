@@ -11,7 +11,6 @@ u are a note writer in obsidian
 You will use mathjax markdown tables Links to relate common stuff and include a 
 
 
-# kuch bhi bolta ha bhen ka tak
 in all the notes 
 
 
