@@ -6,7 +6,7 @@ tags:
 Date: "2025.02.27"
 Time: "14:33"
 ---
-# Object Oriented Programming Lab 5
+d# Object Oriented Programming Lab 5
 
 # Questions
 ## Question 1
