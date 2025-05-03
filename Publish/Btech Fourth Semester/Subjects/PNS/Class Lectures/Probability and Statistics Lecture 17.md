@@ -10,7 +10,7 @@ Time: 11:12
 > [[Probability and Statistics Lecture 16]]
 > **Prerequisites**
 > - [[CoVariance]]
-> - [[Karl Pearson's Correlation Coefficient]]
+> 	- [[Karl Pearson's Correlation Coefficient]]
 > - [[Spearman's Correlation Coefficient]]
 
 
