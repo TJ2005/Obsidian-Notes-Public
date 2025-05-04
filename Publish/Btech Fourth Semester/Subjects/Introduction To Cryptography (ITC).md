@@ -36,6 +36,7 @@ Time: 03:46
 - [[AES, modes of operations]]
 
 #### Unit 3 Mathematics for Asymmetric Key Cryptography
+- [[Trapdoor Function]]
 - [[Primes, primality testing, factorization]]
 - [[Chinese remainder theorem, Quadratic Congruence]]
 - [[Fermat’s little theorem, Euler’s theorem]]
