@@ -1,0 +1,53 @@
+name: Pull on GitHub Repo Update
+
+on:
+  push:
+    branches:
+      - public  # Triggers on push to the 'public' branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Deploy to Server via SSH
+      uses: appleboy/ssh-action@v0.1.9
+      with:
+        host: ${{ secrets.SERVER_HOST }}
+        username: ${{ secrets.SSH_USER }}
+        password: ${{ secrets.PASSWORD }}
+        key: ${{ secrets.SSH_KEY }}
+        script: |
+          echo "SSH Connection Successful"
+          
+          # Install nvm (Node Version Manager) and the latest compatible version of Node.js and npm
+          curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+          
+          # Install Node.js and npm (latest stable version)
+          nvm install 20  # You can specify any compatible version you need, like 20 or 22
+          nvm use 20
+
+          # Check Node.js and npm versions
+          node -v
+          npm -v
+
+          # Navigate to the repo and pull updates
+          cd /root/notes/Obsidian-Notes-Public
+          git reset --hard origin/public
+          git pull origin public
+          rsync -a --delete /root/notes/Obsidian-Notes-Public/ /root/notes/quartz/content/
+
+          # Navigate to the quartz directory
+          cd /root/notes/quartz/
+
+          # Build Quartz
+          npx quartz build
+
+          # Fix
+          rsync -a --delete /root/notes/quartz/public/ /var/www/quartz/public/
+          cp /root/configs/.htaccess /var/www/quartz/public/

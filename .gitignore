@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Allow specific files/folders
+!/Publish
+!/Publish/**
+!index.md
+!Index Miscellaneous.md
+!/Attachments
+
+# Allow GitHub workflows
+!/.github/
+!/.github/**
