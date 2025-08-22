@@ -11,6 +11,9 @@ Time: 16:25
 # Welcome to TJ's Notebook
 Well the Index has had a revamp now. Now this page is a list of all other indexes to go to and then browse the pages.
 
+
+
+
 # Latest Notes...
 - [[CI CD From Obsidian]]
 - [[Herringbone Cross Pattern]]

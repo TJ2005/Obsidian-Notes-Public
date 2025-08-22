@@ -17,7 +17,7 @@ Time: 16:28
 - [DBMS Filer](DBMS%20Filer.md)
 - [DNS Resolving](DNS%20Resolving.md)
 - [Decimal To Hexadecimal](Decimal%20To%20Hexadecimal.md)
-- [Digital Logic Design Lecture 10](Digital%20Logic%20Design%20Lecture%2010.md)
+- [Digital Logic Design Lecture 10](Publish/miscellaneous/Digital%20Logic%20Design%20Lecture%2010.md)
 - [Double Linked List](Double%20Linked%20List.excalidraw.md)
 - [ECMAScript Specifications](ECMAScript%20Specifications.md)
 - [Endianness](Endianness.md)
