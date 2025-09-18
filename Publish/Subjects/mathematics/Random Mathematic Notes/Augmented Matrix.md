@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[mathematics]] [[Matrix]] [[linear algebra]]
+Tags : [[mathematics]] [[Matrix]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]]
 
 # Augmented Matrix
 

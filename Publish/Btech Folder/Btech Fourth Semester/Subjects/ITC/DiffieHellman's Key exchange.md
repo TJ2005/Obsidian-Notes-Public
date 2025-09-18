@@ -6,8 +6,7 @@ tags:
 Date: 2025.03.22
 Time: 09:01
 ---
-
-# Diffie-Hellman Key Exchange
+		# Diffie-Hellman Key Exchange
 
 ## Introduction
 The **Diffie-Hellman Key Exchange** was invented in **1976** by **Whitfield Diffie** and **Martin Hellman**. It is a cryptographic protocol that allows two parties to **create a shared secret** over an **insecure channel** without directly exchanging the secret itself.

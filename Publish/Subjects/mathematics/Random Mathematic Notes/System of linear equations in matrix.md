@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[mathematics]] [[linear algebra]] [[Linear Equations]] 
+Tags : [[mathematics]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Linear Equations]] 
 
 # System of linear equations in matrix
 

@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[mathematics]] [[Row echelon form]] [[Rank of matrix]] [[linear algebra]] 
+Tags : [[mathematics]] [[Row echelon form]] [[Rank of matrix]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] 
 
 # Minor method to find rank
 

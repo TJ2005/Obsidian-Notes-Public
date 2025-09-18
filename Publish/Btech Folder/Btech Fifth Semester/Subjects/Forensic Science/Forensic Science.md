@@ -10,7 +10,7 @@ Date: 2025.08.21
 Time: 15:18
 ---
 # Forensic Science
-This index covers the notes for forensic science taught at MPSTME. The quality is poor as there is a lack of clear definition is missing.
+This index covers the notes for forensic science taught at MPSTME. 
 
 ## Lectures
 - [[Rules of Forensic Science]]

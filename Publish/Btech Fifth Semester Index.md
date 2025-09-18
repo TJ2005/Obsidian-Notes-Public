@@ -1,10 +1,10 @@
 ---
-Title: "Btech Fifth Semester Index"
-Status: 
-marker: 
-tags: 
-Date: "2025.07.29"
-Time: "23:39"
+Title: Btech Fifth Semester Index
+Status: true
+marker:
+tags:
+Date: 2025.07.29
+Time: 23:39
 ---
 # Btech MPSTME Index
 
@@ -12,6 +12,8 @@ Time: "23:39"
 - [[Artificial Intelligence Index]]
 - [[Network Security Index]]
 - [[Drone Technology Index]] 
+- [[CyberSec Fundamentals Index]]
+
 # References
 
 

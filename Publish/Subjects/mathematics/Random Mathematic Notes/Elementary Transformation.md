@@ -3,7 +3,7 @@
 
 Status : 
 
-Tags : [[Matrix]] [[mathematics]] [[linear algebra]]
+Tags : [[Matrix]] [[mathematics]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]]
 
 # Elementary Transformation
 

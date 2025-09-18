@@ -3,7 +3,7 @@
 
 Status :
 
-Tags : [[Linear Equations]] [[linear algebra]] 
+Tags : [[Linear Equations]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] 
 # Linear Transformations and Eigenvalues
 
 ## Prerequisites

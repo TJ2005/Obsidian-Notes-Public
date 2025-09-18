@@ -3,7 +3,7 @@
 
 Status : 
 
-Tags : [[mathematics]] [[algebra]] [[linear algebra]] [[Matrix]]
+Tags : [[mathematics]] [[algebra]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Matrix]]
 
 # Determinants
 

@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[mathematics]] [[Matrix]] [[linear algebra]] [[Linear Equations]]
+Tags : [[mathematics]] [[Matrix]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Linear Equations]]
 
 # Rank of matrix
 

@@ -1,5 +1,6 @@
 # Ignore everything
 *
+.gitignore
 
 # Allow specific files/folders
 !/Publish

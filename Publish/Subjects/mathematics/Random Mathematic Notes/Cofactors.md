@@ -3,7 +3,7 @@
 
 Status : 
 
-Tags : [[mathematics]] [[linear algebra]] [[Matrix]] [[Minors]]
+Tags : [[mathematics]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Matrix]] [[Minors]]
 
 # cofactors
 

@@ -3,7 +3,7 @@
 
 Status : 
 
-Tags : [[Matrix]] [[linear algebra]] [[]] 
+Tags : [[Matrix]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[]] 
 
 # Inverse of a matrix
 

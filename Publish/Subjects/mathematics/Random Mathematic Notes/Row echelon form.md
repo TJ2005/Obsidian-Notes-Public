@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[linear algebra]] [[Matrix]] 
+Tags : [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Matrix]] 
 
 # Row echelon form
 

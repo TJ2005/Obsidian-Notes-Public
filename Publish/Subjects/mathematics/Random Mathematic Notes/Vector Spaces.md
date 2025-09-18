@@ -4,7 +4,7 @@
 Status :  
 
 
-Tags : [[linear algebra]] [[Linear Equations]] [[Sets]] [[collections]] 
+Tags : [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Linear Equations]] [[Sets]] [[collections]] 
 
 # Vector Spaces
 ## Prerequisites

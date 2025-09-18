@@ -3,7 +3,7 @@
 
 Status : 
 
-Tags : [[linear algebra]] [[mathematics]] 
+Tags : [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[mathematics]] 
 
 # Matrix
 

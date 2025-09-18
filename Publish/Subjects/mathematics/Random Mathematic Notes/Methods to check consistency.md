@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[mathematics]] [[linear algebra]] [[Matrix]] [[Linear Equations]]
+Tags : [[mathematics]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Matrix]] [[Linear Equations]]
 
 # Methods to check consistency
 

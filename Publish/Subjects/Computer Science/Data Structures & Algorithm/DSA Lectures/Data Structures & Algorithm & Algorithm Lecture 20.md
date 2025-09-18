@@ -1,11 +1,11 @@
 ---
 Title: Data Structures & Algorithm & Algorithm Lecture 19
-Status: 
+Status:
 marker:
   - "[[Data Structures & Algorithm]]"
   - "[[Trees]]"
   - "[[File Storage]]"
-  - "[[Introduction]]"
+  - "[[Introduction To Li]]"
   - "[[Traversal]]"
   - "[[Binary Trees]]"
   - "[[Algorithm]]"

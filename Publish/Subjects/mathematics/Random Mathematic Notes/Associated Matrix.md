@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[linear algebra]] [[Linear Transformation]]
+Tags : [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Linear Transformation]]
 
 # Associated Matrix
 

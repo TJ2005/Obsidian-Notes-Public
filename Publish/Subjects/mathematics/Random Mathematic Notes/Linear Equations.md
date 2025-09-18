@@ -3,7 +3,7 @@
 
 Status : 
 
-Tags : [[mathematics]] [[algebra]] [[linear algebra]] [[Differential Equations]]
+Tags : [[mathematics]] [[algebra]] [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Differential Equations]]
 
 # Linear Equations
 

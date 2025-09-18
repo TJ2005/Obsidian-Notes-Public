@@ -3,7 +3,7 @@
 
 Status :  
 
-Tags : [[linear algebra]] [[Linear Equations]]
+Tags : [[Publish/Subjects/mathematics/Random Mathematic Notes/linear algebra]] [[Linear Equations]]
 
 # Linear Transformation
 

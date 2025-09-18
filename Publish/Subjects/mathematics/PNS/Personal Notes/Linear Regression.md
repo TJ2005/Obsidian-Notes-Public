@@ -30,7 +30,7 @@ The regression line is a straight line that best fits the data points in a scatt
 	 $$
 	4)  $$x-\bar{x}=b_{xy}(y-\bar{y})$$
 
-We can calculate the value of $r$ using [[]]
+We can calculate the value of $r$ using 
 ## Properties of Regression Line
 Average of the equation of regression line is the point $(\bar{x},\bar{y})$. The regression line passes through this point.
 1) The regression line passes through the point $(\bar{x},\bar{y})$.
