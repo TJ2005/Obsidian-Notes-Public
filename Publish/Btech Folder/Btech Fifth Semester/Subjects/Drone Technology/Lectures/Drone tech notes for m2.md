@@ -46,7 +46,24 @@ Example Forward pitch signal is received by the flight controller
 
 ## Flight controller
 - CPU of drone
-- 
+- **Functions**
+	- Stabilization
+	- Navigation
+	- Command Exec
+	- Sensor Integration
+	- Telemetry and Comms
+- Types of FC
+	- Basic
+		- Simple manual flight
+	- Intermediate
+		- GPS Navigations
+		- Altitude Hold
+		- Return to home
+	- Advanced
+		- Integrate multiple sensors
+		- Integrate Obstruction Detection
+	- ![[Pasted image 20251006131754.png|center]]
+![[Pasted image 20251006131804.png|center]]
 
 
 # References
