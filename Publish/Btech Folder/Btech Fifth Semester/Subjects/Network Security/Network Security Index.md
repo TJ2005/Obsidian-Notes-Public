@@ -1,7 +1,8 @@
 ---
 Title: Network Security Index
-Status:
+Status: true
 marker:
+  - "[[Computer Networks]]"
 tags:
 Date: 2025.07.23
 Time: 14:12
@@ -24,6 +25,7 @@ Time: 14:12
 	- 13-08-2025 [[Cloud Computing Models]]
 	- 13-08-2025 [[Cloud Computing Risks and Countermeasures]]
 - 17-09-2025 [[Wireless Security]]
+- 01-10-2025 [[DNSSEC]]
 
 ### Labs
 - 27-07-2025 [[Demonstrating an HPING Attack]]
@@ -34,6 +36,8 @@ Time: 14:12
 - 07-09-2025 [[NMAp]]
 - 05-09-2025 [[Network Security NMAP]]
 
+## Project
+- 22-09-2025 [[Network Security Dashboard ( Prelimi]]
 # References
 
 

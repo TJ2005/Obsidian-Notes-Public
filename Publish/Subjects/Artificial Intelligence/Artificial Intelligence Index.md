@@ -19,7 +19,10 @@ Time: "14:05"
 - [[Naive Bayes Classifier]]
 - [[Decision Tree]]
 - [[Random Forest]]
-
+- [[Multiclass Classification]]
+- [[Untitled AIML]]
+### Intrusion Detection
+- [[Intrusion Detection]]
 ## Lab Index
 - [[AI ML ( Understanding Pandas for ) Lab 1]]
 

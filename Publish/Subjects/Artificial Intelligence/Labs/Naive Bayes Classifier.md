@@ -36,14 +36,12 @@ In [[DWM Naive Bayes]] we have worked on **Gaussian Naive Bayes**.
 - Gaussian Naive Baye
 	- Used with normal distribution thus called Gaussian
 	- Fitted with the **Mean** and **Standard Deviation**
+	- Works better with continuous values
 - MultiNomial Naive Baye
 	- **Discrete Data** such as frequency count
 - Bernoullis Naive Baye
 	- Boolean Attributes
-
-
-Got it 👍
-I’ll write it step-by-step, with **dummy data → table → math → explanation**.
+	- Binary laves
 
 ---
 

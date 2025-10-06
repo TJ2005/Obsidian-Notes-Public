@@ -20,7 +20,7 @@ Cybersec fundamentals taught by Dr Pintu Shah.
 - [[Access Control]]
 	- [[Security Models]]
 - [[UntitledCF]]
-- [[]]
+- [[Firewall]]
 
 ## Labs
 - [[Cybersecurity Fundamentals Lab 1]]
@@ -33,7 +33,7 @@ Cybersec fundamentals taught by Dr Pintu Shah.
 - [[Lab 6 Policies]]
 - [[Lab 7 SQL Injection ]]
 - [[Lab 8 Password Strength Calculation]]
-
+- [[Lab 9 VPN]]
 
 # References
 
